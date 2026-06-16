@@ -35,6 +35,13 @@ Background: Naval Officer (Brazilian Marine Corps) and Postgraduate in **Artific
 | **AI Media Transcriber** | Next.js + FastAPI · transcription with OpenAI → Gemini → Whisper fallback · Electron desktop | [Repo](https://github.com/helberjf/video-transcript) |
 | **Agenda – Productivity App** | React 19 · Firebase · Node / Vercel Functions · TanStack Query | [Demo](https://agendapratica.vercel.app) |
 
+### 📂 Case studies (private projects, public write-ups)
+
+The source code of my two largest projects is private, so I documented their architecture and engineering decisions in dedicated public case studies:
+
+- **[E-commerce & Services Platform](https://github.com/helberjf/ecommerce-platform-casestudy)** — Next.js 16 · Prisma · PostgreSQL · MercadoPago/Pix · Gemini AI · 40+ REST routes, HMAC webhooks, RBAC. [Live demo](https://vendaprodutosonline.vercel.app)
+- **[Gym Management Platform (Máquina Team)](https://github.com/helberjf/gym-management-casestudy)** — Next.js · Prisma · PostgreSQL · Redis · WhatsApp/Web Push · role-based dashboards & financial reports. [Live demo](https://gym-sistem-maquinateam.vercel.app)
+
 ### 📊 GitHub
 
 <p>
